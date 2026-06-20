@@ -1,7 +1,7 @@
 # qemu-vcan-fail-safe-validator
 
 # QEMU vECU 기반 멀티스레드 CAN 통신 및 Watchdog 연동 Fail-Safe 검증
-> **Fault Injection(결함 주입)을 통한 가상 전장 소프트웨어 강건성 및 비상 제어 시스템 검증**
+**Fault Injection(결함 주입)을 통한 가상 전장 소프트웨어 강건성 및 비상 제어 시스템 검증**
 ---
 ## 1. 프로젝트 목적
 차량 주행 중 제어기 오류나 통신 두절이 발생했을 때, 시스템이 안전 상태로 진입시키는 Fail-Safe 매커니즘을 구현해보고자 함
